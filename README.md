@@ -1,6 +1,6 @@
 # Fondamenti di Machine Learning
 
-Questo repository contiene i miei personali appunti ed esperimenti per il corso 2025/2026 "Fondamenti di Machine Learning" presso il Politecnico di Bari.  
+Questo repository contiene i miei personali appunti ed esperimenti per il corso 2025/2026 "Fondamenti di Machine Learning" presso il Politecnico di Bari, tenuto dalla dal Professoressa Angela Lombardi.
 
 Per le esercitazioni, sono stati usati i seguenti dataset: 
 - [California Housing Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)  
